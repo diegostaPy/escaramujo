@@ -1,0 +1,6 @@
+ ssh -CNL localhost:8888:localhost:8888 lmenode1@192.168.196.119
+
+desde el browser:
+http://localhost:8888/notebooks/escaramujo
+
+
